@@ -1,0 +1,2 @@
+npx wrangler deploy
+3.  **Wrangler.toml is key**: The `main = "index.js"` line tells Cloudflare to execute your script rather than looking for a folder of HTML files.
