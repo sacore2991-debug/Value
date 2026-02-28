@@ -1,2 +1,3 @@
-npx wrangler deploy
-3.  **Wrangler.toml is key**: The `main = "index.js"` line tells Cloudflare to execute your script rather than looking for a folder of HTML files.
+name = "value"
+main = "index.js"
+compatibility_date = "2024-06-19"
